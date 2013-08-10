@@ -1,3 +1,6 @@
+Use JSONP in Browserify
+======
+
 ```sh
 npm install dlite-jsonp
 ```
